@@ -1,2 +1,2 @@
-<h1> Hello, Sravanthi Welcome to devops project-1 !!! </h1>
+<h1> Hi,Sravanthi Welcome to devops project-1 !!! </h1>
 
